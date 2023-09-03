@@ -1,2 +1,2 @@
 # MindHub
-Crear un repositorio github y clonarTarea
+Mi primer repositorio de texting.  Creo un repositorio github y clono Tarea
